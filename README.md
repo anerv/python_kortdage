@@ -1,3 +1,3 @@
-# python_kortdage
+# Python workshop @ Kortdage 2025
 
-test test
+Afholdes af Geoforums Data Science-udvalg.
