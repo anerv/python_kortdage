@@ -33,8 +33,8 @@ Alle kurser er åbne og gratis at tilgå.
 
 ## Bøger (online)
 
-- [Python-GIS](https://pythongis.org/) (introduktion til Python og geodata med Python. For læsere, der allerede har grundlæggende kendskab til geodata og GIS, men er nye til Python).
+- [Python-GIS](https://pythongis.org/): Introduktion til Python og geodata med Python. For læsere, der allerede har grundlæggende kendskab til geodata og GIS, men er nye til Python.
 
-- [Geographic Data Science](https://geographicdata.science/book/intro.html) (mere teoretisk introduktion til geografisk data analyse, med eksempler i Python. For læsere, der allerede har grundlæggende Python-kendskaber).
+- [Geographic Data Science](https://geographicdata.science/book/intro.html): Mere teoretisk introduktion til geografisk data analyse, med eksempler i Python. For læsere, der allerede har grundlæggende Python-kendskaber.
 
-- [Geocomputation with Python](https://py.geocompx.org/) (generel introduktion til at arbejde specifikt med geodata i Python for læsere, der allerede har grundlæggende Python-kendskaber).
+- [Geocomputation with Python](https://py.geocompx.org/): Generel introduktion til at arbejde med geodata i Python. For læsere, der allerede har grundlæggende Python-kendskaber.
