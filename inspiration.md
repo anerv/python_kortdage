@@ -1,5 +1,7 @@
 # Inspiration, kurser & materialer
 
+Der er et væld af online vejledninger og kurser, der kan hjælpe dig godt i gang med Python. Nedenfor har vi oplistet de bedste vejledninger, der henvender sig særligt til dem, der vil bruge Python til at arbejde med geodata og GIS-analyser.
+
 ## Online kursusmaterialer
 
 Kurserne er rangeret i anbefalet rækkefølge og (nogenlunde) efter sværhedsgrad. Vi anbefaler særligt kursus 1 og 2 på listen for en samlet (og pædagogisk) introduktion til Python og geodata/GIS med Python.
