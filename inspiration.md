@@ -18,7 +18,6 @@ Alle kurser er åbne og gratis at tilgå.
 
 3. [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/): God introduktion til at arbejde med geodata og GIS-analyser i Python. Forudsætter grundlæggende Python-kendskaber (svarende til kurset [GeoPython](https://geo-python-site.readthedocs.io/en/latest/index.html)).
 
-
 4. [PyGIS - Open Source Spatial Programming & Remote Sensing](https://pygis.io/docs/a_intro.html#): Generel introduktion til geodata i Python. Inkluderer, modsat mange andre kurser, også en introduktion til rasterdata i Python.
 
 5. [Spatial Data Science](https://martinfleischmann.net/sds/): Introduktion til spatial data science i Python. Forudsætter grundlæggende geo- og Python-kendskaber.
@@ -39,7 +38,7 @@ Alle kurser er åbne og gratis at tilgå.
 
 ## Fysiske kurser
 
-- Geoforum afholder ofter kurser i Python og GIS: https://geoforum.dk/kurser-og-arrangementer/ .
+- Geoforum afholder ofter kurser i Python og GIS: https://geoforum.dk/arrangementer/ .
 - Septima afholder jævnligt kurser i at kombinere Python og QGIS: https://septima.dk/kurser .
 
 
